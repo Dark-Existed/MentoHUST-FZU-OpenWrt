@@ -3,7 +3,7 @@ include $(INCLUDE_DIR)/package.mk
 
 PKG_NAME:=mentohust
 PKG_VERSION:=0.3.1
-PKG_RELEASE:=2
+PKG_RELEASE:=3
 
 
 PKG_FIXUP:=autoreconf
@@ -20,7 +20,7 @@ define Package/mentohust
 	CATEGORY:=Network
 	DEPENDS:=+libpcap
 	TITLE:=MentoHUST for FZU
-	URL:=https://github.com/KumaTea/MentoHUST-SYSU-OpenWrt.git
+	URL:=https://github.com/Dark-Existed/MentoHUST-FZU-OpenWrt.git
 	SUBMENU:=Ruijie
 endef
 

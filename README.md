@@ -1,8 +1,8 @@
-# MentoHUST-SYSU-OpenWrt
+# MentoHUST-FZU-OpenWrt
 
-把[之前教程](https://kumatea.github.io/MentoHUST-SYSU-Guide/Guide.html)的编译步骤修改了下，现在可以在编译 OpenWrt 的时候安装了。
+## ！！！未完工！！！
 
-源码来自 @ivechan 的[mentohust的SYSU版本](https://github.com/ivechan/mentohust-SYSU)，移植方式参考了@KyleRicardo 的 [MentoHUST-OpenWrt-ipk包](https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk)，感谢。
+本项目由[MentoHUST-SYSU-OpenWrt](https://github.com/KumaTea/MentoHUST-SYSU-OpenWrt) 修改而来
 
 # 使用方式
 

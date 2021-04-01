@@ -427,7 +427,6 @@ static int sendStartPacket()
 		printf(_(">> 寻找服务器...\n"));
 		//fillStartPacket();
 		fillEtherAddr(0x888E0101);
-
 		memcpy(sendPacket + 0x12, pkt1, sizeof(pkt1));
         memcpy(sendPacket + 0xe2, computeV4(pad, 16), 0x80);
 		setTimer(timeout);

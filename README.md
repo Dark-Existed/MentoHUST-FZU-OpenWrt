@@ -1,7 +1,7 @@
 # MentoHUST-FZU-OpenWrt
 
 # 暂停施工  
-1. 找网管开通 Linux 客户端权限，mentohus 和 minieap 都是模拟 Linux客户端 需要Linux客户端的权限  
+1. 找网管开通 Linux 客户端权限，mentohust 和 minieap 都是模拟 Linux客户端 需要Linux客户端的权限  
 2. mentohust 代理模式可用
 3. 无心跳包 (请发挥一下想象力)
 
